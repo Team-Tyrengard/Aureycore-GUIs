@@ -1,0 +1,8 @@
+name: AureycoreGUIs
+version: ${project.version}
+main: com.tyrengard.aureycore.aureycoreguis.AureycoreGUIs
+api-version: 1.18
+load: STARTUP
+authors: [ AureanAutumn, hayashikin ]
+description: Custom GUI plugin and API
+website: guis.aureycore.tyrengard.com
